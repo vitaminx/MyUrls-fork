@@ -1,4 +1,4 @@
-module github.com/CareyWang/MyUrls
+module github.com/vitaminx/MyUrls-fork
 
 go 1.20
 
